@@ -1,3 +1,5 @@
+![background](background.jpg)
+
 # Quick overview
 
 Highly skilled and motivated software developer in software development, testing, documentation, etc. across the complete development lifecycle of a product.
